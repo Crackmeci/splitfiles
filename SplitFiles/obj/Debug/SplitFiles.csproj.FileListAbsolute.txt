@@ -1,0 +1,11 @@
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\bin\Debug\SplitFiles.exe.config
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\bin\Debug\SplitFiles.exe
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\bin\Debug\SplitFiles.pdb
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\obj\Debug\SplitFiles.Form1.resources
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\obj\Debug\SplitFiles.Form2.resources
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\obj\Debug\SplitFiles.Properties.Resources.resources
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\obj\Debug\SplitFiles.csproj.GenerateResource.Cache
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\obj\Debug\SplitFiles.exe
+C:\Users\Yusuf Hamza Palta\Downloads\SplitFiles\SplitFiles\obj\Debug\SplitFiles.pdb

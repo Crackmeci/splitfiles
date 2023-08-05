@@ -1,0 +1,10 @@
+{
+  "Resimler": ".jpeg,.png,.gif,.jpg,.ico,.svg",
+  "Belgeler": ".pdf,.docx,.doc",
+  "Programlar": ".exe",
+  "Metinler": ".txt",
+  "Excel": ".xls,.xslx",
+  "Müzikler": ".wav,.mp3",
+  "Kodlar": ".h, .cpp, .java, .py, .cs, .php, .js, .rb, .swift, .html, .css, .xml, .sh, .pl, .kt, .lua, .ts, .r, .scala, .asm",
+  "Arşivler": ".zip, .rar"
+}
